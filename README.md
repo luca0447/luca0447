@@ -1,4 +1,4 @@
-[![v1em's Discord status](https://dsc-readme.tsuni.dev/api/user/1000826364259213373?theme=custom&colorB1=000000&colorB2=FF0000&colorB3=505059&colorT1=ffffff&colorT2=d2d6d8&width=528&font=tempo&effect=neon)](https://github.com/the-snesler/discord-github-preview)
+[![v1em's Discord status](https://dsc-readme.tsuni.dev/api/user/1000826364259213373?theme=custom&colorB1=000000&colorB2=FF0000&colorB3=505059&colorT1=ffffff&colorT2=d2d6d8&width=792&font=tempo&effect=neon)](https://github.com/the-snesler/discord-github-preview)
 
 >- - 👋 Hi, I’m **Luca** (aka v1em)                                                   
 >- - 👀 I’m interested in OG Fortnite Projects.
